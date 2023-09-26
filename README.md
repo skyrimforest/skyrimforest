@@ -2,7 +2,7 @@
 **skyrimforest/skyrimforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Hi there 👋
-### I'm SkyrimForest.So delighted to meet you here!
+### I'm SkyrimForest nya. So delighted to meet you here nya!
 
 - 🏫 Currently I'm learning for my master's degree at Harbin Institute of Technology.
 - 💖 I’m interested in parallel programming, Web developing,desktop apps and more.
