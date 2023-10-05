@@ -4,10 +4,12 @@
 ### Hi there 👋
 ### I'm SkyrimForest nya. So delighted to meet you here nya!
 
-- 🏫 Currently I'm learning for my master's degree at Harbin Institute of Technology.
+- 🏫 I will get my bachelor's degree at HIT, and I'm looking forward to studying in NJU next year.
 - 💖 I’m interested in parallel programming, Web developing,desktop apps and more.
 - 📔 I also take a pleasure in reading, bicycling and learning ACG culture.
-- 🥰 I enjoy a balanced lifestyle where I harvest boundless creativity.
+- 🥰 I enjoy a benefit relationship with friends where we can interchange diverse views.
+- 🤝 If you think my project interesting, you can contact me by email: hitskyrim@qq.com.
+
 
 
 <h2 align="center">⛏️ Technology Stack ⚒️</h2>
