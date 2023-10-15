@@ -18,6 +18,7 @@
 <p align="center">
 <img alt="c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img alt="cplusplus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img alt="cplusplus" height="40" width="40" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />
 <!-- <img alt="csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
 <img alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <!-- <img alt="kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> -->
