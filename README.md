@@ -29,6 +29,9 @@
 <img alt="css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <!-- <img alt="sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
 </p>
+<p align="center">
+C, C++, Go, Java, Python, JavaScript, HTML5, CSS3
+</p>
 <!-- <p align="center">
 C, C++, C#, Java, Kotlin, Python, JavaScript, Typescript, HTML5, CSS3, SCSS
 </p> -->
@@ -44,18 +47,25 @@ C, C++, C#, Java, Kotlin, Python, JavaScript, Typescript, HTML5, CSS3, SCSS
 <!-- <img alt="webpack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /> -->
 <img alt="vite" height="40" width="40" src="https://vitejs.cn/logo.svg" />
 </p>
+<p align="center">
+Vue, Vite
+</p>
 
 ### *Backend:*
 <p align="center">
 <!-- <img alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
 <img alt="django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img alt="django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />  
+<img alt="flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />  
 <img alt="nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img alt="sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <!-- <img alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> -->
 <img alt="nginx" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </p>
+<p align="center">
+Django, Flask, Nodejs, Mysql, Sqlite, Nginx
+</p>
+
 
 ### *Cloud:*
 <p align="center">
@@ -67,9 +77,21 @@ C, C++, C#, Java, Kotlin, Python, JavaScript, Typescript, HTML5, CSS3, SCSS
 <!-- <img alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> -->
 <!-- <img alt="nginx" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> -->
 <img alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img alt="kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+</p>
+<p align="center">
+Docker, Kubernetes
 </p>
 
+
+### *AI:*
+<p align="center">
+<img alt="pytorch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img alt="opencv2" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+</p>
+<p align="center">
+Pytorch, Opencv2
+</p>
 <!--### *Desktop:*
 <p align="center">
 <img alt="dot-net-wpf-winforms" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
