@@ -16,36 +16,22 @@
 
 ### *Languages:*
 <p align="center">
-<img alt="c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img alt="cplusplus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img alt="go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<!-- <img alt="csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
-<img alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<!-- <img alt="kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> -->
-<img alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<!-- <img alt="typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
-<img alt="html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<!-- <img alt="sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
+<img alt="c" height="40" width="40" src="https://skillicons.dev/icons?i=c" />
+<img alt="cplusplus" height="40" width="40" src="https://skillicons.dev/icons?i=cpp" />
+<img alt="go" height="40" width="40" src="https://skillicons.dev/icons?i=go" />
+<img alt="java" height="40" width="40" src="https://skillicons.dev/icons?i=java" />
+<img alt="python" height="40" width="40" src="https://skillicons.dev/icons?i=python" />
+<img alt="javascript" height="40" width="40" src="https://skillicons.dev/icons?i=javascript" />
+<img alt="typescript" height="40" width="40" src="https://skillicons.dev/icons?i=typescript" />
 </p>
 <p align="center">
-C, C++, Go, Java, Python, JavaScript, HTML5, CSS3
+C, C++, Go, Java, Python, JavaScript, TypeScript
 </p>
-<!-- <p align="center">
-C, C++, C#, Java, Kotlin, Python, JavaScript, Typescript, HTML5, CSS3, SCSS
-</p> -->
 
 ### *Frontend:*
 <p align="center">
-<img alt="vuejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<!-- <img alt="react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
-<!-- <img alt="redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> -->
-<!-- <img alt="mobx" height="40" width="40" src="https://raw.githubusercontent.com/mobxjs/mobx/main/website/static/img/mobx.png" /> -->
-<!-- <img alt="nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -->
-<!-- <img alt="threejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" /> -->
-<!-- <img alt="webpack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /> -->
-<img alt="vite" height="40" width="40" src="https://vitejs.cn/logo.svg" />
+<img alt="vuejs" height="40" width="40" src="https://skillicons.dev/icons?i=vue" />
+<img alt="vite" height="40" width="40" src="https://skillicons.dev/icons?i=vite" />
 </p>
 <p align="center">
 Vue, Vite
@@ -53,45 +39,46 @@ Vue, Vite
 
 ### *Backend:*
 <p align="center">
-<!-- <img alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
-<img alt="django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img alt="flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />  
-<img alt="nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<!-- <img alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> -->
-<img alt="nginx" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+<img alt="django" height="40" width="40" src="https://skillicons.dev/icons?i=django" />
+<img alt="flask" height="40" width="40" src="https://skillicons.dev/icons?i=flask" /> 
+<img alt="fastapi" height="40" width="40" src="https://skillicons.dev/icons?i=fastapi" /> 
+<img alt="springboot" height="40" width="40" src="https://skillicons.dev/icons?i=spring" /> 
+<img alt="nodejs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs" />
+<img alt="mysql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql" />
+<img alt="sqlite" height="40" width="40" src="https://skillicons.dev/icons?i=sqlite" />
+<img alt="nginx" height="40" width="40" src="https://skillicons.dev/icons?i=nginx" />
 </p>
 <p align="center">
-Django, Flask, Nodejs, Mysql, Sqlite, Nginx
+Django, Flask, Fastapi, Springboot, Nodejs, Mysql, Sqlite, Nginx
 </p>
 
 
 ### *Cloud:*
 <p align="center">
-<!-- <img alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
-<!-- <img alt="django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img alt="nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> -->
-<!-- <img alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> -->
-<!-- <img alt="nginx" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> -->
-<img alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img alt="kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img alt="docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker" />
+<img alt="kubernetes" height="40" width="40" src="https://skillicons.dev/icons?i=kubernetes" />
+<img alt="rabbitmq" height="40" width="40" src="https://skillicons.dev/icons?i=rabbitmq" />
 </p>
 <p align="center">
-Docker, Kubernetes
+Docker, Kubernetes, Rabbitmq
 </p>
 
 
 ### *AI:*
 <p align="center">
-<img alt="pytorch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img alt="opencv2" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+<img alt="pytorch" height="40" width="40" src="https://skillicons.dev/icons?i=pytorch" />
+<img alt="opencv2" height="40" width="40" src="https://skillicons.dev/icons?i=opencv" />
 </p>
 <p align="center">
 Pytorch, Opencv2
 </p>
+
+<br/>
+<h2 align="center">🌟 Github Status 🌛</h2>
+<p align="center">
+<img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyrimforest&layout=compact" alt="github-status" />
+</p>
+
 <!--### *Desktop:*
 <p align="center">
 <img alt="dot-net-wpf-winforms" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
