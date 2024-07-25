@@ -1,7 +1,9 @@
 <!--
 **skyrimforest/skyrimforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 ### Hi there 👋
+
 ### I'm SkyrimForest nya. So delighted to meet you here nya!
 
 - 🏫 I get my bachelor's degree at HIT, and I'm going to study in NJU for master's degree.
@@ -10,11 +12,10 @@
 - 🥰 I enjoy a benefit relationship with friends where we can interchange diverse views.
 - 🤝 If you think my project interesting, you can contact me by email: hitskyrim@qq.com.
 
-
-
 <h2 align="center">⛏️ Technology Stack ⚒️</h2>
 
-### *Languages:*
+### _Languages:_
+
 <p align="center">
 <img alt="c" height="40" width="40" src="https://skillicons.dev/icons?i=c" />
 <img alt="cplusplus" height="40" width="40" src="https://skillicons.dev/icons?i=cpp" />
@@ -28,16 +29,22 @@
 C, C++, Go, Java, Python, JavaScript, TypeScript
 </p>
 
-### *Frontend:*
+### _Frontend:_
+
 <p align="center">
 <img alt="vuejs" height="40" width="40" src="https://skillicons.dev/icons?i=vue" />
 <img alt="vite" height="40" width="40" src="https://skillicons.dev/icons?i=vite" />
+<img alt="react" height="40" width="40" src="https://skillicons.dev/icons?i=react" />
+<img alt="less" height="40" width="40" src="https://skillicons.dev/icons?i=less" />
+<img alt="scss" height="40" width="40" src="https://skillicons.dev/icons?i=scss" />
+<img alt="electron" height="40" width="40" src="https://skillicons.dev/icons?i=electron" />
 </p>
 <p align="center">
-Vue, Vite
+Vue, Vite, React, Less, SCSS, Electron
 </p>
 
-### *Backend:*
+### _Backend:_
+
 <p align="center">
 <img alt="django" height="40" width="40" src="https://skillicons.dev/icons?i=django" />
 <img alt="flask" height="40" width="40" src="https://skillicons.dev/icons?i=flask" /> 
@@ -52,8 +59,8 @@ Vue, Vite
 Django, Flask, Fastapi, Springboot, Nodejs, Mysql, Sqlite, Nginx
 </p>
 
+### _Cloud:_
 
-### *Cloud:*
 <p align="center">
 <img alt="docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker" />
 <img alt="kubernetes" height="40" width="40" src="https://skillicons.dev/icons?i=kubernetes" />
@@ -63,8 +70,8 @@ Django, Flask, Fastapi, Springboot, Nodejs, Mysql, Sqlite, Nginx
 Docker, Kubernetes, Rabbitmq
 </p>
 
+### _AI:_
 
-### *AI:*
 <p align="center">
 <img alt="pytorch" height="40" width="40" src="https://skillicons.dev/icons?i=pytorch" />
 <img alt="opencv2" height="40" width="40" src="https://skillicons.dev/icons?i=opencv" />
@@ -104,5 +111,3 @@ Pytorch, Opencv2
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![](https://github-readme-stats.vercel.app/api?username=skyrimforest&theme=dark)-->
-
-
