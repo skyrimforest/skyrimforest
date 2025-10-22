@@ -75,9 +75,11 @@ Docker, Kubernetes, Rabbitmq
 <p align="center">
 <img alt="pytorch" height="40" width="40" src="https://skillicons.dev/icons?i=pytorch" />
 <img alt="opencv2" height="40" width="40" src="https://skillicons.dev/icons?i=opencv" />
+<img alt="huggingface" height="40" width="40" src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" />
+<img alt="scikitlearn" height="40" width="40" src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" />
 </p>
 <p align="center">
-Pytorch, Opencv2
+Pytorch, Opencv2, Huggingface, Scikitlearn
 </p>
 
 <br/>
